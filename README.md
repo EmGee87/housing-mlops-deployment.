@@ -10,7 +10,7 @@ This repository demonstrates a basic MLOps deployment workflow for predicting ho
 - `app.py`: Gradio-based web interface to input house details and get a predicted price.
 - `requirements.txt`: Python package dependencies for the project.
 
-## 🚀 How to Run This Project
+##How to Run This Project
 
 ### 1. Clone the Repository
 
